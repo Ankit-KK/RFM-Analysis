@@ -14,7 +14,7 @@ The RFM Analysis PDF document includes information on:
 
 ## Purpose
 
-The RFM Analysis PDF serves as a guide for businesses looking to enhance customer relationship management and optimize marketing strategies through data-driven insights. By leveraging RFM scores and segmenting customers based on their purchasing behavior, businesses can tailor their approaches to different customer segments effectively.
+The RFM Analysis Notebook serves as a guide for businesses looking to enhance customer relationship management and optimize marketing strategies through data-driven insights. By leveraging RFM scores and segmenting customers based on their purchasing behavior, businesses can tailor their approaches to different customer segments effectively.
 
 ## How to Use
 
