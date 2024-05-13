@@ -1,6 +1,6 @@
 # RFM Analysis PDF Documentation
 
-This README file provides an overview of the RFM Analysis PDF document related to customer segmentation and analysis based on Recency, Frequency, and Monetary Value metrics. The RFM Analysis PDF contains valuable insights into customer behavior, segmentation, and the application of RFM scores in understanding customer engagement and loyalty.
+This README file provides an overview of the RFM Analysis Notebook document related to customer segmentation and analysis based on Recency, Frequency, and Monetary Value metrics. The RFM Analysis PDF contains valuable insights into customer behavior, segmentation, and the application of RFM scores in understanding customer engagement and loyalty.
 
 ## Contents
 
