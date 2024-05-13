@@ -1,4 +1,4 @@
-pip install -r requirements.txt
+apt-get requirements.txt
 
 import pandas as pd
 import plotly.express as px
